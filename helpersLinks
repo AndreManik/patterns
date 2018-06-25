@@ -1,2 +1,7 @@
 1. GlassFish web container setup: https://o7planning.org/ru/10223/installing-and-configuring-glassfish-web-server
-2. 
+2. SSL — https://docs.oracle.com/javase/10/security/java-secure-socket-extension-jsse-reference-guide.htm#JSSEC-GUID-D04EF7C1-B1D4-4611-9896-A7B5573CBEED 
+3. Java EE 7 Tutorial
+    Parts I - Overview 
+    Part II - JNDI, Injections, Packaging (included WAR)
+    Part III - included JSF, Servlets, WebSocket API, JSON API
+    Part VI - RESTFul services with JAX-RS 
