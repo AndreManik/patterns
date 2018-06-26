@@ -6,4 +6,6 @@
     Part III - included JSF, Servlets, WebSocket API, JSON API
     Part VI - RESTFul services with JAX-RS 
 4. GitExtension fast tutorial https://www.youtube.com/watch?v=cFbCusX9bKs
-5 SSL Java tutorial — https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLP-dpkkinybmBnmSB3-NTBb2JWJGoZpXM
+5. SSL Java tutorial — https://www.youtube.com/watch?v=iQsKdtjwtYI&list=PLP-dpkkinybmBnmSB3-NTBb2JWJGoZpXM
+
+6. Setup Maven SSL with Java: http://qaru.site/questions/45763/problems-using-maven-and-ssl-behind-proxy
