@@ -11,3 +11,5 @@
 6. Setup Maven SSL with Java: http://qaru.site/questions/45763/problems-using-maven-and-ssl-behind-proxy
 
 7. Find and understand Logger levels
+
+8. Skip maven test "-Dmaven.test.skip=true" (http://qaru.site/questions/32598/maven-packaging-without-test-skip-tests)
