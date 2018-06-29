@@ -23,3 +23,5 @@
 
 11. logger handling https://docs.oracle.com/javase/7/docs/api/java/util/logging/Handler.html
 12. фильтрация
+
+13. логгер http://qaru.site/questions/3186685/java-logging-properties-log-a-certain-class-to-a-specific-log-file
