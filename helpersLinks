@@ -25,3 +25,29 @@
 12. фильтрация
 
 13. логгер http://qaru.site/questions/3186685/java-logging-properties-log-a-certain-class-to-a-specific-log-file
+
+---------------------------------------------------
+1. Implement logging of requests and responses into wcs_logs_dir/session/session%i.log
+
+INFO level:
+
+Date Thread package.Class request_type method_name user_ip ws_id request_id auth_token meeting_id participant_id sesion_id mode message
+
+Date, Thread, Class - automatic fields
+
+request_type: POST, PUT, GET, DELETE
+method_name - REST method which accepts this request (getAttendee, leaveMeeting)
+user_ip
+ws_id - socket connection id for
+request_id - the same in request and response
+auth_token, meeting_id, participant_id, session_id, mode - which avaiable
+message - for web sockets (only text)
+
+FINE level:
+INFO + BinaryData (for web sockets)
+
+2. Organize log rotation like for element%i.log (10 Mb maximum size per each file and 20 rotated files to keep)
+
+3. Include session logs into CS package
+
+4. Write the bash script to parse session logs by date, user_ip, meeting_id, ws_id, participant_id, session_id, request_id, auth_token
