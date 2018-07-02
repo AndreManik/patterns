@@ -25,7 +25,17 @@
 12. фильтрация
 
 13. логгер http://qaru.site/questions/3186685/java-logging-properties-log-a-certain-class-to-a-specific-log-file
-
+14. 
+14. https://stackoverflow.com/questions/15758685/how-to-write-logs-in-text-file-when-using-java-util-logging-logger
+    http://www.cyberforum.ru/java/thread486616.html
+    http://qaru.site/questions/219167/write-logger-message-to-file-and-textarea-while-maintaining-default-behaviour-in-java
+    https://ru.stackoverflow.com/questions/456273/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%87%D1%82%D0%BE%D0%B1%D1%8B-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE%D1%82-%D0%B2%D1%81%D0%B5%D1%85-%D0%BB%D0%BE%D0%B3%D0%B3%D0%B5%D1%80%D0%BE%D0%B2-%D1%81-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0
+    https://habr.com/post/130195/
+    https://habr.com/post/135242/
+    https://ru.stackoverflow.com/questions/332814/%D0%9B%D0%BE%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-java
+    https://docs.oracle.com/javase/7/docs/api/java/util/logging/Handler.html
+    https://stackoverflow.com/questions/960099/how-to-set-up-java-logging-using-a-properties-file-java-util-logging
+    http://www.eclipse.org/jetty/documentation/9.0.6.v20130930/example-logging-java-util-logging.html
 ---------------------------------------------------
 1. Implement logging of requests and responses into wcs_logs_dir/session/session%i.log
 
