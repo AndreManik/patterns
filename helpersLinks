@@ -64,3 +64,7 @@ INFO + BinaryData (for web sockets)
 3. Include session logs into CS package
 
 4. Write the bash script to parse session logs by date, user_ip, meeting_id, ws_id, participant_id, session_id, request_id, auth_token
+
+--------------------------------------
+How to write bash scripts
+https://habr.com/company/ruvds/blog/325522/
