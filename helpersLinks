@@ -44,6 +44,8 @@
 15. AVAYA VIDEO TUTORS — https://www.youtube.com/user/AvayaMentor/videos    
 16. BASH script — http://www.thinkplexx.com/learn/article/webperf/baslog/statwithbashandawk
         https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml
+        
+17. rotate logs        http://www.umgum.com/f38fc
 ---------------------------------------------------
 1. Implement logging of requests and responses into wcs_logs_dir/session/session%i.log
 
